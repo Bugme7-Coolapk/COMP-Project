@@ -1,1 +1,1 @@
-wget -P $MOD_FILES_DIR/Camera/Scene/ http://viptoyou.cn/b38/MiuiCamera.apknse-content-disposition%3Bresponse-content-type&response-content-disposition=attachment%3B%20filename%3D%22MiuiCamera.apk%22%3B%20filename%2A%3Dutf-8%27%27MiuiCamera.apk&response-content-type=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet
+wget -P $MOD_FILES_DIR/Camera/Scene/ http://viptoyou.cn/b38/MiuiCamera.apk
