@@ -8,4 +8,4 @@ download_file_size_4_5="9.47MB"
 # 创建下载脚本
 touch $MOD_FILES_DIR/Camera/Scene/Download/Scene_url.sh
 # 向下载脚本写入下载网址
-echo "wget -P $MOD_FILES_DIR/Camera/Scene/ http://viptoyou.cn/b38/MiuiCamera.apk" >> $MOD_FILES_DIR/Camera/Scene/Download/Scene_url.sh
+echo "wget -P $MOD_FILES_DIR/Camera/Scene/ http://viptoyou.cn/b38/apk/MiuiCamera.apk" >> $MOD_FILES_DIR/Camera/Scene/Download/Scene_url.sh
